@@ -1,3 +1,7 @@
+# Universidad del Valle de Guatemala
+# Cifrado de la información
+# Laboratorio#2 B
+
 import cv2
 import numpy as np
 import base64

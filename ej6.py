@@ -1,5 +1,8 @@
+# Universidad del Valle de Guatemala
+# Cifrado de la información
+# Laboratorio#2 B
+
 import shutil
-import os
 from PIL import Image
 import base64
 import io

@@ -1,3 +1,7 @@
+# Universidad del Valle de Guatemala
+# Cifrado de la información
+# Laboratorio#2 B
+
 # XOR bit a bit
 def convertir_letra_binario(x):
     a = ord(x)
